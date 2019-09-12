@@ -1,6 +1,6 @@
 {
   "name": "renovate-config-goy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "ntnyq <ntnyq13@gmail.com> (https://ntnyq.com)",
   "scripts": {
     "validate": "renovate-config-validator",
