@@ -10,7 +10,7 @@
   },
   "files": [],
   "devDependencies": {
-    "renovate": "^19.30.10",
+    "renovate": "^19.43.1",
     "standard-version": "^7.0.0"
   },
   "homepage": "https://github.com/goy-fe/renovate-config-goy",
